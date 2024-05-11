@@ -5,14 +5,14 @@
 * Κατεβάστε και εκτυπώστε το **animal cell marker** ([png](/assets/print/animal_cell.png) or [pdf](/assets/print/animal_cell.pdf))
 * Κατεβάστε και εκτυπώστε το **plant cell marker** ([png](/assets/print/plant_cell.png) or [pdf](/assets/print/plant_cell.pdf))
 
-### Βήμα 02
-* [Animal cell v1](/source/animal_cell01.html)
-* [Animal cell v2](/source/animal_cell02.html)
-* [Animal cell v3](/source/animal_cell03.html)
-* [Mitochondrio v1](/source/mitochondria.html)
-* [Neuron cells](/source/neuron_cells.html)
-* [Plant cell v1 (with english tags)](/source/plant_cell01.html)
-* [Plant cell v2](/source/plant_cell02.html)
+### Βήμα 02 - Κάντε κλικ για:
+* [Ζωικό Κύτταρο v1](/source/animal_cell01.html)
+* [Ζωικό Κύτταρο v2](/source/animal_cell02.html)
+* [Ζωικό Κύτταρο v3](/source/animal_cell03.html)
+* [Μιτοχόνδριο v1](/source/mitochondria.html)
+* [Νευρώνες](/source/neuron_cells.html)
+* [Φυτικό Κύτταρο v1 (with english tags)](/source/plant_cell01.html)
+* [Φυτικό Κύτταρο v2](/source/plant_cell02.html)
 
 ### Credits for the 3D models
 * **Animal cell** v1 by: [montanna](https://sketchfab.com/3d-models/animal-cell-20-annotated-in-english-0d9f7f4257224975b2ef83a283709b2f)
