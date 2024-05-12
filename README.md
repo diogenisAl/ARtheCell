@@ -23,5 +23,9 @@
 * **Plant cell** v1 by: [brianj.seely](https://sketchfab.com/3d-models/plant-cell-caa4a71203254d979bb8f200a8f96eab)
 * **Plant cell** v2 by: [Al-Deezel](https://sketchfab.com/Al-dezel)
 
-### Άδεια Χρήσης [CC BY-NC-SA 3.0 GR](https://creativecommons.org/licenses/by/3.0/deed.el) 
-### Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 3.0 Ελλάδα
+### Συνέδριο
+Το παρόν OER αξιοποιήθηκε σε έρευνα που δημοσιοποιήθηκε στα πλαίσια του συνεδρίου [Open Classroom Conference 2024: Learning from the Extremes](https://learningfromtheextremes.eu/conference-proceedings/).
+
+### Άδεια Χρήσης
+[CC BY-NC-SA 3.0 GR](https://creativecommons.org/licenses/by/3.0/deed.el) 
+Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 3.0 Ελλάδα
