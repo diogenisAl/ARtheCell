@@ -6,13 +6,13 @@
 * Κατεβάστε και εκτυπώστε το **plant cell marker** ([png](/assets/print/plant_cell.png) or [pdf](/assets/print/plant_cell.pdf))
 
 ### Βήμα 02 - Κάντε κλικ για:
-* [Ζωικό Κύτταρο v1](/source/animal_cell01.html)
-* [Ζωικό Κύτταρο v2](/source/animal_cell02.html)
-* [Ζωικό Κύτταρο v3](/source/animal_cell03.html)
-* [Μιτοχόνδριο v1](/source/mitochondria.html)
-* [Νευρώνες](/source/neuron_cells.html)
-* [Φυτικό Κύτταρο v1 (with english tags)](/source/plant_cell01.html)
-* [Φυτικό Κύτταρο v2](/source/plant_cell02.html)
+* [Ζωικό Κύτταρο v1](https://diogenisal.github.io/ARtheCell/source/animal_cell01.html)
+* [Ζωικό Κύτταρο v2](https://diogenisal.github.io/ARtheCell/source/animal_cell02.html)
+* [Ζωικό Κύτταρο v3](https://diogenisal.github.io/ARtheCell/source/animal_cell03.html)
+* [Μιτοχόνδριο v1](https://diogenisal.github.io/ARtheCell/source/mitochondria.html)
+* [Νευρώνες](https://diogenisal.github.io/ARtheCell/source/neuron_cells.html)
+* [Φυτικό Κύτταρο v1 (with english tags)](https://diogenisal.github.io/ARtheCell/source/plant_cell01.html)
+* [Φυτικό Κύτταρο v2](https://diogenisal.github.io/ARtheCell/source/plant_cell02.html)
 
 ### Credits for the 3D models
 * **Animal cell** v1 by: [montanna](https://sketchfab.com/3d-models/animal-cell-20-annotated-in-english-0d9f7f4257224975b2ef83a283709b2f)
